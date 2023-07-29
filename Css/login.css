@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #24353F;
+}
+h1{
+    color: #17A2B8;
+}
+.btn{
+    background-color: #24353F !important;
+    color: #17A2B8 !important;
+    border:#17A2B8 solid 1px !important;
+}
+.btn:hover{
+    background-color:#17A2B8 !important;
+    color: white !important;
+}
+
+.login,.sign-up{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+span{
+    cursor: pointer;
+}
